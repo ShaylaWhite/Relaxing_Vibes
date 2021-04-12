@@ -1,17 +1,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Zilla+Slab+Highlight&display=swap');
 * {
   box-sizing: border-box;
-  border: 1px solid blue;
 }
 
 body {
   height: 100vh;
   margin: 0;
   font-family: sans-serif;
-  background-image: url(images/background2.jpg);
-  background-size: cover;
+  background-image: url(images/bg4.jpg);
+  background-size: 100% 100%;
   display: flex;
   flex-direction: column;
   align-items:  center;
   justify-content: center;
+}
+
+.music-container {
+  background-color: white;
+  opacity: 0.9;
+  border-radius: 15px;
+  box-shadow: 0 20px 20px 0 rgb(239,205,81);
+
 }
