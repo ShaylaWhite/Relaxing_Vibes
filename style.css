@@ -26,3 +26,8 @@ body {
   z-index: 10;
 
 }
+
+.img-container {
+  postion: relative;
+  width: 110px;
+}
