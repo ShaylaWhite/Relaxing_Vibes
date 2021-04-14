@@ -24,3 +24,13 @@ if(studentAverage > pass) {
 } else {
   console.log('Sorry, You failed')
 }
+
+// Even better way to wrap the logic into a function//
+
+function PassedExam(studentAverage, pass) {
+  if(studentAverage > pass){
+    console.log('Congrats')
+  } else{
+    console.log('Failed')
+  }
+}
