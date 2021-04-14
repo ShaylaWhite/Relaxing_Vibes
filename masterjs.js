@@ -52,3 +52,13 @@ function bestGift() {
   }
     return console.log('green')
 }
+
+function passedExam () {
+  if(){
+
+  }
+
+  if() {
+
+  }
+}
