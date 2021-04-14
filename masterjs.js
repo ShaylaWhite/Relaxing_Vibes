@@ -53,12 +53,12 @@ function bestGift() {
     return console.log('green')
 }
 
-function passedExam () {
-  if(){
-
+function passedExam (studentAverage, passed) {
+  if(studentAverage > 40){
+    return console.log('You Failed')
   }
 
-  if() {
-
+  if(studentAverage < 70) {
+    return console.log('You Passed')
   }
 }
