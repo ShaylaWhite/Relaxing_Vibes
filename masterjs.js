@@ -13,24 +13,14 @@ if (condition) {
 
 // Program logic into Functions//
 
-//add programs into small chunks,
-//so that we can use the code anywhere.
+let studentAverage = 40;
+let passed = 70;
 
-const studentAverage = 40;
-const pass = 50;
 
-if(studentAverage > pass) {
-  console.log('You Passed');
-} else {
-  console.log('Sorry, You failed')
-}
 
-// Even better way to wrap the logic into a function//
 
-function PassedExam(studentAverage, pass) {
-  if(studentAverage > pass){
-    console.log('Congrats')
-  } else{
-    console.log('Failed')
-  }
-}
+
+
+
+passedExam(40,50);
+passedExam(40,77);
