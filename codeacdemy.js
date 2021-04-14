@@ -21,3 +21,12 @@ if (false) {
 }
 
 // if...else statements allow us to automate solutions to yes-or-no questions, also known as binary decisions.//
+
+// comparison operators
+
+// less than <
+// greater than >
+// less than or equal to <=
+// greater than or equal to >=
+// equal to ===
+// not equal !==
