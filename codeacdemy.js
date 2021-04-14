@@ -11,3 +11,11 @@
 if(true) {
   console.log('Print message')
 }
+
+// if...else statements
+
+if (false) {
+  console.log('the code in this block will not run')
+} else {
+
+}
