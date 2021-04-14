@@ -29,3 +29,13 @@ passedExam(40,50);
 passedExam(40,77);
 
 // Single if Blocks
+
+// more than two possible outcomes
+
+if(userColor == 'red') {
+  console.log('red gift')
+}else if (userColor == 'blue') {
+  console.log('blue gift')
+} else {
+  console.log('green gift')
+}
