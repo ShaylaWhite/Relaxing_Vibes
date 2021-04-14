@@ -43,12 +43,12 @@ if(userColor == 'red') {
 // Wrap the logic into a function and use a single Blocks
 
 function bestGift() {
-  if () {
-
+  if (userColor == 'red') {
+    return console.log('red')
   }
 
-  if () {
-
+  if (userColor == 'blue') {
+    return console.log('blue')
   }
-
+    return console.log('green')
 }
