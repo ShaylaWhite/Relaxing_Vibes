@@ -42,3 +42,11 @@ if (stopLight === 'green' && pedestrians === 0) {
 }
 
 // check if two things are true
+
+if (day === 'Saturday' || day === 'Sunday') {
+  console.log('Enjoy the weekend!');
+} else {
+  console.log('Do some work.');
+}
+
+// If we only care about either condition being true, we can use the || operator:
