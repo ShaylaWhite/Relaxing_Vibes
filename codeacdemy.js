@@ -19,3 +19,5 @@ if (false) {
 } else {
   console.log('the code in this block will')
 }
+
+// if...else statements allow us to automate solutions to yes-or-no questions, also known as binary decisions.//
