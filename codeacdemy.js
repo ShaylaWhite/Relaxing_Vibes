@@ -17,5 +17,5 @@ if(true) {
 if (false) {
   console.log('the code in this block will not run')
 } else {
-
+  console.log('the code in this block will')
 }
