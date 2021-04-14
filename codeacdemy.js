@@ -30,3 +30,15 @@ if (false) {
 // greater than or equal to >=
 // equal to ===
 // not equal !==
+
+// logical operators
+
+// Operators that work with boolean values
+
+if (stopLight === 'green' && pedestrians === 0) {
+  console.log('Go!');
+} else {
+  console.log('Stop');
+}
+
+// check if two things are true
