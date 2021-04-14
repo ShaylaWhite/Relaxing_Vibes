@@ -10,3 +10,17 @@ if (condition) {
 }else{
   // do something else entirely
 }
+
+// Program logic into Functions//
+
+//add programs into small chunks,
+//so that we can use the code anywhere.
+
+const studentAverage = 40;
+const pass = 50;
+
+if(studentAverage > pass) {
+  console.log('You Passed');
+} else {
+  console.log('Sorry, You failed')
+}
