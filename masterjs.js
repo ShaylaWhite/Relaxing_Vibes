@@ -17,6 +17,17 @@ let studentAverage = 40;
 let passed = 70;
 
 
+function passedExam() {
+  if(){
+
+  }else{
+
+
+  }
+
+
+}
+
 
 
 
