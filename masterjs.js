@@ -39,3 +39,16 @@ if(userColor == 'red') {
 } else {
   console.log('green gift')
 }
+
+// Wrap the logic into a function and use a single Blocks
+
+function bestGift() {
+  if () {
+
+  }
+
+  if () {
+
+  }
+
+}
