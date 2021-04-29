@@ -9,10 +9,23 @@ ruby.rb
 
 
 array = [15, 7, 3, 2, 17, 12, 1]
+def how_many_numbers_greater_than(number,array)
 count = 0;
 for item in array
   if item > 5
     count += 1
   end
 end
-puts count
+return count
+end
+
+def numbers_greater_than(number, array)
+  count = 0;
+  for item in array
+    if item > number
+      count += 1
+    end
+  end
+  return count 
+
+end
